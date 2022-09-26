@@ -1,0 +1,15 @@
+C:\Users\Richie Osagie\source\repos\Login Script\Login Script\obj\Debug\net6.0\Login Script.csproj.AssemblyReference.cache
+C:\Users\Richie Osagie\source\repos\Login Script\Login Script\obj\Debug\net6.0\Login Script.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richie Osagie\source\repos\Login Script\Login Script\obj\Debug\net6.0\Login Script.AssemblyInfoInputs.cache
+C:\Users\Richie Osagie\source\repos\Login Script\Login Script\obj\Debug\net6.0\Login Script.AssemblyInfo.cs
+C:\Users\Richie Osagie\source\repos\Login Script\Login Script\obj\Debug\net6.0\Login Script.csproj.CoreCompileInputs.cache
+C:\Users\Richie Osagie\source\repos\Login Script\Login Script\bin\Debug\net6.0\Login Script.exe
+C:\Users\Richie Osagie\source\repos\Login Script\Login Script\bin\Debug\net6.0\Login Script.deps.json
+C:\Users\Richie Osagie\source\repos\Login Script\Login Script\bin\Debug\net6.0\Login Script.runtimeconfig.json
+C:\Users\Richie Osagie\source\repos\Login Script\Login Script\bin\Debug\net6.0\Login Script.dll
+C:\Users\Richie Osagie\source\repos\Login Script\Login Script\bin\Debug\net6.0\Login Script.pdb
+C:\Users\Richie Osagie\source\repos\Login Script\Login Script\obj\Debug\net6.0\Login Script.dll
+C:\Users\Richie Osagie\source\repos\Login Script\Login Script\obj\Debug\net6.0\refint\Login Script.dll
+C:\Users\Richie Osagie\source\repos\Login Script\Login Script\obj\Debug\net6.0\Login Script.pdb
+C:\Users\Richie Osagie\source\repos\Login Script\Login Script\obj\Debug\net6.0\Login Script.genruntimeconfig.cache
+C:\Users\Richie Osagie\source\repos\Login Script\Login Script\obj\Debug\net6.0\ref\Login Script.dll
